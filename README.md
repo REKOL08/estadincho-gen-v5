@@ -27,24 +27,6 @@ Estadincho-Gen analiza automáticamente tu archivo de datos y genera un dashboar
 
 ---
 
-## Demo
-
-El siguiente ejemplo usa un archivo real de control de trabajos de grado con **1.365 registros** y **7 columnas**. El dashboard se generó en segundos sin ninguna configuración manual.
-
-**Panel de filtros, KPIs y gráficas principales:**
-
-![Panel superior con filtros por categoría, KPI de 1365 registros, calidad 100/100, gráfica de evolución temporal y distribución por programa](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo1.png)
-
-**Distribución por múltiples variables — donut, barras y comparativos:**
-
-![Gráficas de distribución por autores, autorización, URLs y tipo de contenido adjunto](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo2.png)
-
-**Tabla de distribución con niveles de participación calculados automáticamente:**
-
-![Tabla con programas académicos ordenados por cantidad, porcentaje y nivel Alto/Medio/Bajo](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo3.png)
-
----
-
 ## Formatos soportados
 
 | Formato | Extensión |
