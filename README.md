@@ -33,17 +33,15 @@ El siguiente ejemplo usa un archivo real de control de trabajos de grado con **1
 
 **Panel de filtros, KPIs y gráficas principales:**
 
-![Panel superior con filtros por categoría, KPI de 1365 registros, calidad 100/100, gráfica de evolución temporal y distribución por programa](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/docs/demo1.png)
+![Panel superior con filtros por categoría, KPI de 1365 registros, calidad 100/100, gráfica de evolución temporal y distribución por programa](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo1.png)
 
 **Distribución por múltiples variables — donut, barras y comparativos:**
 
-![Gráficas de distribución por autores, autorización, URLs y tipo de contenido adjunto](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/docs/demo2.png)
+![Gráficas de distribución por autores, autorización, URLs y tipo de contenido adjunto](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo2.png)
 
 **Tabla de distribución con niveles de participación calculados automáticamente:**
 
-![Tabla con programas académicos ordenados por cantidad, porcentaje y nivel Alto/Medio/Bajo](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/docs/demo3.png)
-
-> Para agregar las imágenes al repositorio, sube las capturas a una carpeta `/docs` en la raíz del repo y GitHub las servirá automáticamente en el README.
+![Tabla con programas académicos ordenados por cantidad, porcentaje y nivel Alto/Medio/Bajo](https://raw.githubusercontent.com/REKOL08/estadincho-gen-v5/main/demo3.png)
 
 ---
 
